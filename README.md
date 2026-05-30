@@ -15,7 +15,7 @@ e. g.
     "TTS": "TTS"
 }
 
-4. Start the Websocket Server in StreamerBot.
+3. Start the Websocket Server in StreamerBot.
     - Auto Start: On
     - Adress: 127.0.0.1
     - Port: 8080
@@ -23,10 +23,10 @@ e. g.
     - Authentication: Off
     - Press on Start Server
   
-5. Install atleast Python 3.
+4. Install atleast Python 3.
 
-6. Run: pip install "python-socketio[client]" websocket-client
+5. Run: pip install "python-socketio[client]" websocket-client
 
-7. Start the Script befor every Stream and enjoy.
+6. Start the Script befor every Stream and enjoy.
 
 #StreamlabsLoyalty #Streamlabspoints #StreamerBot #StreambotPoints #StreamlabsLoyaltyPoints #SteamLabsPoints #Streamer.bot #StreamLabsStreamer.bot #PointswhitoutAffiliate
