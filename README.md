@@ -28,3 +28,5 @@ e. g.
 6. Run: pip install "python-socketio[client]" websocket-client
 
 7. Start the Script befor every Stream and enjoy.
+
+#StreamlabsLoyalty #Streamlabspoints #StreamerBot #StreambotPoints #StreamlabsLoyaltyPoints #SteamLabsPoints #Streamer.bot #StreamLabsStreamer.bot #PointswhitoutAffiliate
