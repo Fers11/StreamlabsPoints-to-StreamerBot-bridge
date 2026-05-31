@@ -27,6 +27,8 @@ e. g.
 
 5. Run: pip install "python-socketio[client]" websocket-client
 
-6. Start the Script befor every Stream and enjoy.
+6. Use the vars in streamerbot: %user%, %reward% and %text%
+
+7. Start the Script befor every Stream and enjoy.
 
 #StreamlabsLoyalty #Streamlabspoints #StreamerBot #StreambotPoints #StreamlabsLoyaltyPoints #SteamLabsPoints #Streamer.bot #StreamLabsStreamer.bot #PointswhitoutAffiliate
